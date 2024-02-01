@@ -1,0 +1,1 @@
+Deployed power saving strategy, allowing a 500mAh battery to sense distance with ultrasonic sensor and upload data to Firebase without being recharged for at least 24 hours
